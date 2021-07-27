@@ -1,0 +1,22 @@
+server:
+  port: 8000
+#  address: localhost
+
+spring:
+  application:
+    name: OpinionBackground
+  main:
+    allow-bean-definition-overriding: true
+  datasource:
+    url: jdbc:clickhouse://master:8123/poas
+    username: default
+    password: root
+    driver-class-name: ru.yandex.clickhouse.ClickHouseDriver
+  elasticsearch:
+    rest:
+      uris: http://master:9200
+
+mybatis:
+  configuration:
+    map-underscore-to-camel-case: true
+

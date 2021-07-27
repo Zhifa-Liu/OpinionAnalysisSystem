@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="ClickHouse - Connection" uuid="a1d8324d-45a7-4fbc-a0d0-cae7e2f03d5a">
+      <driver-ref>clickhouse</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>ru.yandex.clickhouse.ClickHouseDriver</jdbc-driver>
+      <jdbc-url>jdbc:clickhouse://master:8123/default</jdbc-url>
+      <driver-properties>
+        <property name="use_server_time_zone" value="false" />
+        <property name="use_time_zone" value="Shanghai" />
+      </driver-properties>
+    </data-source>
+  </component>
+</project>

@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d0e588d9-9891-4d7c-bb0b-be6dbcbf36b7" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1u2DSiWesBGcFT9aK98J01uOYEp" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/include/toutiao" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Course\50 项目实习\20 项目档案\T09项目\爬虫代码\Spider\include\toutiao" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.weibo_spider">
+    <configuration name="get_event_article" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Spider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/include/toutiao" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/include/toutiao/get_event_article.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="kafka_util" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Spider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/util" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/util/kafka_util.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="read_file_to_kafka" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Spider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/include/weibo" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/include/weibo/read_file_to_kafka.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="toutiao" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Spider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/include/toutiao" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/include/toutiao/toutiao.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="weibo_spider" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Spider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/include/weibo" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/include/weibo/weibo_spider.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.weibo_spider" />
+        <item itemvalue="Python.read_file_to_kafka" />
+        <item itemvalue="Python.kafka_util" />
+        <item itemvalue="Python.toutiao" />
+        <item itemvalue="Python.get_event_article" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d0e588d9-9891-4d7c-bb0b-be6dbcbf36b7" name="Default Changelist" comment="" />
+      <created>1623854791433</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623854791433</updated>
+      <workItem from="1623854797268" duration="22944000" />
+      <workItem from="1623935882980" duration="5348000" />
+      <workItem from="1624242823038" duration="697000" />
+      <workItem from="1624261301215" duration="13503000" />
+      <workItem from="1624445029328" duration="584000" />
+      <workItem from="1624458823911" duration="1033000" />
+      <workItem from="1624466677641" duration="1496000" />
+      <workItem from="1624520104827" duration="3327000" />
+      <workItem from="1624530105473" duration="1350000" />
+      <workItem from="1624541552158" duration="1255000" />
+      <workItem from="1624775650844" duration="1812000" />
+      <workItem from="1624780408856" duration="616000" />
+      <workItem from="1624793596989" duration="604000" />
+      <workItem from="1624795867254" duration="635000" />
+      <workItem from="1624811708176" duration="4667000" />
+      <workItem from="1624845226320" duration="238000" />
+      <workItem from="1624887252164" duration="628000" />
+      <workItem from="1624978070217" duration="1223000" />
+      <workItem from="1624983550567" duration="862000" />
+      <workItem from="1625023274267" duration="2698000" />
+      <workItem from="1625065079340" duration="2404000" />
+      <workItem from="1625133760440" duration="8704000" />
+      <workItem from="1625236935204" duration="1601000" />
+      <workItem from="1625381896722" duration="1744000" />
+      <workItem from="1625390012280" duration="5391000" />
+      <workItem from="1625403252630" duration="8295000" />
+      <workItem from="1625496060720" duration="3781000" />
+      <workItem from="1625559739047" duration="4483000" />
+      <workItem from="1625576374563" duration="3000" />
+      <workItem from="1625649980708" duration="19406000" />
+      <workItem from="1625770314389" duration="2952000" />
+      <workItem from="1625934100971" duration="2506000" />
+      <workItem from="1625999906785" duration="606000" />
+      <workItem from="1626073960035" duration="651000" />
+      <workItem from="1626104164319" duration="2439000" />
+      <workItem from="1626141884993" duration="1490000" />
+      <workItem from="1626144604303" duration="1140000" />
+      <workItem from="1626190178302" duration="911000" />
+      <workItem from="1626274766114" duration="770000" />
+      <workItem from="1626335221028" duration="3654000" />
+      <workItem from="1626399511618" duration="1587000" />
+      <workItem from="1626405599369" duration="171000" />
+      <workItem from="1626424770319" duration="913000" />
+      <workItem from="1626523436284" duration="3502000" />
+      <workItem from="1626539474258" duration="15673000" />
+      <workItem from="1626686171954" duration="10410000" />
+      <workItem from="1626915740867" duration="1194000" />
+      <workItem from="1626925006649" duration="5259000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Spider$kafka_util.coverage" NAME="kafka_util Coverage Results" MODIFIED="1626596571803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util" />
+    <SUITE FILE_PATH="coverage/Spider$get_event_article.coverage" NAME="get_event_article Coverage Results" MODIFIED="1625411752229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/include/toutiao" />
+    <SUITE FILE_PATH="coverage/Spider$read_file_to_kafka.coverage" NAME="read_file_to_kafka Coverage Results" MODIFIED="1626607713389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/include/weibo" />
+    <SUITE FILE_PATH="coverage/Spider$weibo_spider.coverage" NAME="weibo_spider Coverage Results" MODIFIED="1626925024228" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/include/weibo" />
+    <SUITE FILE_PATH="coverage/Spider$toutiao.coverage" NAME="toutiao Coverage Results" MODIFIED="1625412146633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/include/toutiao" />
+  </component>
+</project>
