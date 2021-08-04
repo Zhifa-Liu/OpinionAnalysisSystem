@@ -130,7 +130,7 @@ def get_page(list, since_id=None):
         headers = {
             'Referer': 'https://m.weibo.cn',
             'User-Agent': head,
-            # 'Cookie': 'SCF=Ajql1mQRxs50tXTYPERywh1-diUzc2uAEuoglbVmaiXFt3gQAomQmIk9jcmhnkjRp3kn-KgyYplgj1RBleSMRK8.; SUB=_2A25NxPFJDeRhGeNI6FoY9CjNwzyIHXVvRp8BrDV6PUJbktAKLUaskW1NSGOz-BCmW_LjsKdBkVm2PgMIldR05ogv; SUBP=0033WrSXqPxfM725Ws9jqgMF55529P9D9W5kH7G5AEKa9fqaPPs-rMI85NHD95QfSoeR1KBceKn7Ws4Dqcjwi--Ni-2pi-8Fi--4iKnfi-zRi--4iK.XiKyh--8x',
+            # 'Cookie': '',
             'Host': 'm.weibo.cn',
             # 'Connection': 'close',
             'X-Requested-With': 'XMLHttpRequest'
@@ -237,7 +237,7 @@ def parse_json(data):
                 headers = {
                     'Referer': 'https://m.weibo.cn',
                     'User-Agent': head,
-                    # 'Cookie': 'SCF=Ajql1mQRxs50tXTYPERywh1-diUzc2uAEuoglbVmaiXFt3gQAomQmIk9jcmhnkjRp3kn-KgyYplgj1RBleSMRK8.; SUB=_2A25NxPFJDeRhGeNI6FoY9CjNwzyIHXVvRp8BrDV6PUJbktAKLUaskW1NSGOz-BCmW_LjsKdBkVm2PgMIldR05ogv; SUBP=0033WrSXqPxfM725Ws9jqgMF55529P9D9W5kH7G5AEKa9fqaPPs-rMI85NHD95QfSoeR1KBceKn7Ws4Dqcjwi--Ni-2pi-8Fi--4iKnfi-zRi--4iK.XiKyh--8x',
+                    # 'Cookie': '',
                     'Host': 'm.weibo.cn',
                     # 'Connection': 'close',
                     'X-Requested-With': 'XMLHttpRequest'
@@ -292,7 +292,7 @@ def parse_json(data):
                             headers = {
                                 'Referer': 'https://m.weibo.cn',
                                 'User-Agent': head,
-                                # 'Cookie': 'SCF=Ajql1mQRxs50tXTYPERywh1-diUzc2uAEuoglbVmaiXFt3gQAomQmIk9jcmhnkjRp3kn-KgyYplgj1RBleSMRK8.; SUB=_2A25NxPFJDeRhGeNI6FoY9CjNwzyIHXVvRp8BrDV6PUJbktAKLUaskW1NSGOz-BCmW_LjsKdBkVm2PgMIldR05ogv; SUBP=0033WrSXqPxfM725Ws9jqgMF55529P9D9W5kH7G5AEKa9fqaPPs-rMI85NHD95QfSoeR1KBceKn7Ws4Dqcjwi--Ni-2pi-8Fi--4iKnfi-zRi--4iK.XiKyh--8x',
+                                # 'Cookie': '',
                                 'Host': 'm.weibo.cn',
                                 # 'Connection': 'close',
                                 'X-Requested-With': 'XMLHttpRequest'
@@ -352,7 +352,7 @@ def parse_json(data):
                                                 headers = {
                                                     'Referer': 'https://m.weibo.cn',
                                                     'User-Agent': head,
-                                                    # 'Cookie': 'SCF=Ajql1mQRxs50tXTYPERywh1-diUzc2uAEuoglbVmaiXFt3gQAomQmIk9jcmhnkjRp3kn-KgyYplgj1RBleSMRK8.; SUB=_2A25NxPFJDeRhGeNI6FoY9CjNwzyIHXVvRp8BrDV6PUJbktAKLUaskW1NSGOz-BCmW_LjsKdBkVm2PgMIldR05ogv; SUBP=0033WrSXqPxfM725Ws9jqgMF55529P9D9W5kH7G5AEKa9fqaPPs-rMI85NHD95QfSoeR1KBceKn7Ws4Dqcjwi--Ni-2pi-8Fi--4iKnfi-zRi--4iK.XiKyh--8x',
+                                                    # 'Cookie': '',
                                                     'Host': 'm.weibo.cn',
                                                     # 'Connection': 'close',
                                                     'X-Requested-With': 'XMLHttpRequest'
@@ -407,7 +407,7 @@ def parse_json(data):
                                                 headers2 = {
                                                     'Referer': 'https://m.weibo.cn',
                                                     'User-Agent': head2,
-                                                    # 'Cookie': 'SCF=Ajql1mQRxs50tXTYPERywh1-diUzc2uAEuoglbVmaiXFt3gQAomQmIk9jcmhnkjRp3kn-KgyYplgj1RBleSMRK8.; SUB=_2A25NxPFJDeRhGeNI6FoY9CjNwzyIHXVvRp8BrDV6PUJbktAKLUaskW1NSGOz-BCmW_LjsKdBkVm2PgMIldR05ogv; SUBP=0033WrSXqPxfM725Ws9jqgMF55529P9D9W5kH7G5AEKa9fqaPPs-rMI85NHD95QfSoeR1KBceKn7Ws4Dqcjwi--Ni-2pi-8Fi--4iKnfi-zRi--4iK.XiKyh--8x',
+                                                    # 'Cookie': '',
                                                     'Host': 'm.weibo.cn',
                                                     # 'Connection': 'close',
                                                     'X-Requested-With': 'XMLHttpRequest'
@@ -490,7 +490,7 @@ def parse_json(data):
                 headers2 = {
                     'Referer': 'https://m.weibo.cn',
                     'User-Agent': head2,
-                    # 'Cookie': 'SCF=Ajql1mQRxs50tXTYPERywh1-diUzc2uAEuoglbVmaiXFt3gQAomQmIk9jcmhnkjRp3kn-KgyYplgj1RBleSMRK8.; SUB=_2A25NxPFJDeRhGeNI6FoY9CjNwzyIHXVvRp8BrDV6PUJbktAKLUaskW1NSGOz-BCmW_LjsKdBkVm2PgMIldR05ogv; SUBP=0033WrSXqPxfM725Ws9jqgMF55529P9D9W5kH7G5AEKa9fqaPPs-rMI85NHD95QfSoeR1KBceKn7Ws4Dqcjwi--Ni-2pi-8Fi--4iKnfi-zRi--4iK.XiKyh--8x',
+                    # 'Cookie': '',
                     'Host': 'm.weibo.cn',
                     # 'Connection': 'close',
                     'X-Requested-With': 'XMLHttpRequest'
@@ -580,7 +580,7 @@ def get_containerid(id):
     headers = {
         'Referer': 'https://m.weibo.cn',
         'User-Agent': head,
-        # 'Cookie': 'SCF=Ajql1mQRxs50tXTYPERywh1-diUzc2uAEuoglbVmaiXFt3gQAomQmIk9jcmhnkjRp3kn-KgyYplgj1RBleSMRK8.; SUB=_2A25NxPFJDeRhGeNI6FoY9CjNwzyIHXVvRp8BrDV6PUJbktAKLUaskW1NSGOz-BCmW_LjsKdBkVm2PgMIldR05ogv; SUBP=0033WrSXqPxfM725Ws9jqgMF55529P9D9W5kH7G5AEKa9fqaPPs-rMI85NHD95QfSoeR1KBceKn7Ws4Dqcjwi--Ni-2pi-8Fi--4iKnfi-zRi--4iK.XiKyh--8x',
+        # 'Cookie': '',
         # 'Cookie': random.choice(cookie),
         'Host': 'm.weibo.cn',
         # 'Connection': 'close',
@@ -636,7 +636,7 @@ def get_user_location(profile_url):
     headers = {
         'Referer': 'https://m.weibo.cn',
         'User-Agent': head,
-        # 'Cookie': 'SCF=Ajql1mQRxs50tXTYPERywh1-diUzc2uAEuoglbVmaiXFt3gQAomQmIk9jcmhnkjRp3kn-KgyYplgj1RBleSMRK8.; SUB=_2A25NxPFJDeRhGeNI6FoY9CjNwzyIHXVvRp8BrDV6PUJbktAKLUaskW1NSGOz-BCmW_LjsKdBkVm2PgMIldR05ogv; SUBP=0033WrSXqPxfM725Ws9jqgMF55529P9D9W5kH7G5AEKa9fqaPPs-rMI85NHD95QfSoeR1KBceKn7Ws4Dqcjwi--Ni-2pi-8Fi--4iKnfi-zRi--4iK.XiKyh--8x',
+        # 'Cookie': '',
         # 'Cookie': random.choice(cookie),
         'Host': 'm.weibo.cn',
         # 'Connection': 'close',
